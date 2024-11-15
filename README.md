@@ -1,13 +1,10 @@
-# My Portfolio 2024 v2
-![dp](https://github.com/senethmendis/portfolio-24v2/blob/main/public/Screenshot%202024-09-11%20160250.png)
+# Payment Gateway  UI UX
+![dp](https://github.com/senethmendis/credit-card-ui-ux/blob/main/public/Screenshot%202024-11-15%20220719-modified.png)
 
 ### Built With
 
  frameworks/libraries used for theproject..
- with some ui libraries like SHADCN
 
-* ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-* ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 * ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
